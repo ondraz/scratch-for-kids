@@ -4,7 +4,7 @@ Posledně jsme si říkali, že by byla sranda si zahrát nějakou hru proti sob
 
 Na skoro hotový pong se můžete podívat na [https://scratch.mit.edu/projects/436444452](https://scratch.mit.edu/projects/436444452).
 
-<iframe src="https://scratch.mit.edu/projects/436444452/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<a href="https://scratch.mit.edu/projects/436444452"><img src="./pong.png" /></a>
 
 Pokud si s některým krokem nebudete vědět rady, mrkněte, jak to mám udělané já.
 
