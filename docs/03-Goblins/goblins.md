@@ -1,6 +1,6 @@
 # Goblins
 
-[Posledně](../02-Pong/pong.md) jsme si ukázali, jak ovládat pálku pomocí klávesnice. Tentokrát navážeme a zahrajeme si dva gobliny, kteří po sobě stříli a vyhýbají se střelám. Opět si zahrajeme hru proti sobě na jednom počítači. 
+[Posledně](../02-Pong/pong.md) jsme si ukázali, jak ovládat pálku pomocí klávesnice. Tentokrát navážeme a zahrajeme si dva gobliny, kteří po sobě stříli a vyhýbají se střelám. Opět si zahrajeme hru proti sobě na jednom počítači.
 
 Na skoro hotové gobliny se můžete podívat na [https://scratch.mit.edu/projects/445900661](https://scratch.mit.edu/projects/445900661).
 
@@ -8,7 +8,7 @@ Na skoro hotové gobliny se můžete podívat na [https://scratch.mit.edu/projec
 
 Pokud si s některým krokem nebudete vědět rady, mrkněte, jak to mám udělané já.
 
-Následuje návod, jak si naprogramovat vlastní gobliny. 
+Následuje návod, jak si naprogramovat vlastní gobliny.
 
 # Goblin
 
@@ -46,7 +46,7 @@ Do programu kulky teď přidej podmínku, která zruší kulku, pokud trefí gob
 
 ## Goblin střílí
 
-Tak a teď to nejtěžší. Kulku by měl goblin vystřelit zhruba z místa, kde má ruku, ať už s goblinem pohybuješ nahoru nebo dolů, jak chceš. 
+Tak a teď to nejtěžší. Kulku by měl goblin vystřelit zhruba z místa, kde má ruku, ať už s goblinem pohybuješ nahoru nebo dolů, jak chceš.
 
 Budeme muset přidat bloky jak do programu goblina, tak do programu kulky. Při pohybu s goblinem si musíme vždy zapamatovat do proměnné, jakou má goblin polohu na ose y, tedy na ose, která jde směrem nahoru a dolů.
 

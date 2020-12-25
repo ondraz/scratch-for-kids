@@ -28,7 +28,7 @@ Začněte tím, že přidáte postavu pálky a pojmenujete ji "palka vlevo". Nas
 
 ## Podmínka
 
-Budeme k tomu potřebovat nové programátorské slovo "podmínka". Blok podmínky se provede jenom v tom případě, kdy je podmínka splněna. Ukážeme si to na příkladu. 
+Budeme k tomu potřebovat nové programátorské slovo "podmínka". Blok podmínky se provede jenom v tom případě, kdy je podmínka splněna. Ukážeme si to na příkladu.
 
 V programu níže - když je klávesa "a" stisknuta, tak změň y o -10. Tedy se přesně provede, co potřebujeme udělat s pálkou, posune se dolů.
 

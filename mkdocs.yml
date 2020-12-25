@@ -1,0 +1,49 @@
+site_name: Programování pro děti
+repo_name: ondraz/scratch-for-kids
+repo_url: https://github.com/ondraz/scratch-for-kids
+edit_uri: edit/master/docs/
+site_url: hhttps://github.com/ondraz/scratch-for-kids
+site_description: Evaluation package for experimentation platform.
+site_author: Ondra Zahradník
+use_directory_urls: false
+
+nav:
+  - Úvod: 'index.md'
+  - Scratch:
+    - Balónky: '01-Ballons/ballons.md'
+    - Pong: '02-Pong/pong.md'
+    - Goblini: '03-Goblins/goblins.md'
+
+plugins:
+  - search
+
+copyright: Copyright &copy; 2020 Maintained by <a href="https://github.com/ondraz">Ondra Zahradník</a>.
+
+theme:
+  name: material
+  custom_dir: theme/
+  favicon: logo_b.svg
+  logo: logo_w.svg
+  features:
+    - tabs
+
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.arithmatex
+  - footnotes
+  - codehilite
+  - pymdownx.inlinehilite
+  - pymdownx.details
+  - pymdownx.tabbed
+  - pymdownx.highlight:
+      use_pygments: true
+  - toc:
+      permalink: true
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
